@@ -1,2 +1,2 @@
-# tcp_example
-TCP examples
+# 언어별 TCP 소켓 기본 예제 코드
+각 언어별 TCP 소켓 기본 예제 코드
