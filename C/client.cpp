@@ -1,16 +1,6 @@
-#include <sys/types.h>
-#include <sys/stat.h>
 #include <sys/socket.h>
-#include <unistd.h>
-#include <netinet/in.h>
-#include <netinet/tcp.h>
 #include <arpa/inet.h>
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <time.h>
-
-#define MPTCP_ENABLED 26
+#include <unistd.h>
 
 int main(int argc, char** argv) {
 	if (argc != 3) {
